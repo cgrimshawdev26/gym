@@ -1,11 +1,3 @@
----
-
-
----
-
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 <h2 id="lifting-hell"><strong>Lifting <s>Hell</s>:</strong></h2>
 <p>6 Days a Week<br>
 D1 - Legs, D2 - Push, D3 - Pull, D4 - Legs, D5 - Push, D6 - Pull, D7 - Rest</p>
