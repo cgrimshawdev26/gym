@@ -2,7 +2,7 @@
 <p>6 Days a Week<br>
 D1 - Legs, D2 - Push, D3 - Pull, D4 - Legs, D5 - Push, D6 - Pull, D7 - Rest</p>
 <p><strong>Volume</strong>: 10 sets per muscle group a week<br>
-<strong>Intensity</strong>: 2/3 of sets: 6-12 reps, 1/3 of sets: 1-6 reps. 5-10 RPE (0-5 reps possible reps left). 6-12 Reps: 5-8 RPE, 1-6 Reps: 7-10RPE<br>
+<strong>Intensity</strong>: 2/3 of sets: 6-12 reps, 1/3 of sets: 1-6 reps. 6-12 Reps: 5-8 RPE, 1-6 Reps: 7-10RPE<br>
 <strong>Frequency</strong>: Hit each muscle group atleast twice a week.<br>
 <strong>Progression</strong>:</p>
 
