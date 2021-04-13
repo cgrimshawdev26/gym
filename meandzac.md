@@ -1,8 +1,16 @@
+---
+
+
+---
+
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
 <h2 id="lifting-hell"><strong>Lifting <s>Hell</s>:</strong></h2>
 <p>6 Days a Week<br>
 D1 - Legs, D2 - Push, D3 - Pull, D4 - Legs, D5 - Push, D6 - Pull, D7 - Rest</p>
 <p><strong>Volume</strong>: 10 sets per muscle group a week<br>
-<strong>Intensity</strong>: 2/3 of sets: 6-12 reps, 1/3 of sets: 1-6 reps. 6-12 Reps: 5-8 RPE, 1-6 Reps: 7-10RPE<br>
+<strong>Intensity</strong>: 2/3 of sets: 6-12 reps, 1/3 of sets: 1-6 reps. 5-10 RPE (0-5 reps possible reps left). 6-12 Reps: 5-8 RPE, 1-6 Reps: 7-10RPE<br>
 <strong>Frequency</strong>: Hit each muscle group atleast twice a week.<br>
 <strong>Progression</strong>:</p>
 
@@ -66,42 +74,42 @@ D1 - Legs, D2 - Push, D3 - Pull, D4 - Legs, D5 - Push, D6 - Pull, D7 - Rest</p>
 </tbody>
 </table><p><strong>D1:</strong></p>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Squat 3x3</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Leg Extension 3x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Romanian Deadlift 4x8-12</li>
+<li>Squat 3x3</li>
+<li>Leg Extension 3x8-12</li>
+<li>Romanian Deadlift 4x8-12</li>
 </ul>
 <p><strong>D2:</strong></p>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Bench 3x3</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Tricep Pushdown 4x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Lat Raises 3x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Front Raises 3x8-12</li>
+<li>Bench 3x3</li>
+<li>Tricep Pushdown 4x8-12</li>
+<li>Lat Raises 3x8-12</li>
+<li>Front Raises 3x8-12</li>
 </ul>
 <p><strong>D3:</strong></p>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Row 3x3</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Lat Pushdown 4x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Hammer Curl 3x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Facepull 3x8-12</li>
+<li>Row 3x3</li>
+<li>Lat Pushdown 4x8-12</li>
+<li>Hammer Curl 3x8-12</li>
+<li>Facepull 3x8-12</li>
 </ul>
 <p><strong>D4:</strong></p>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Deadlift 3x3</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Leg Extension 4x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Leg Curls 3x8-12</li>
+<li>Deadlift 3x3</li>
+<li>Leg Extension 4x8-12</li>
+<li>Leg Curls 3x8-12</li>
 </ul>
 <p><strong>D5:</strong></p>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> OHP 3x3</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Chest Flyes 5x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Lat Raises 3x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Front Raises 3x8-12</li>
+<li>OHP 3x3</li>
+<li>Chest Flyes 5x8-12</li>
+<li>Lat Raises 3x8-12</li>
+<li>Front Raises 3x8-12</li>
 </ul>
 <p><strong>D6:</strong></p>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Lat Pulldown 3x3</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> EZ/Barbell Curl 4x8-12</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Facepull 3x8-12</li>
+<li>Lat Pulldown 3x3</li>
+<li>EZ/Barbell Curl 4x8-12</li>
+<li>Facepull 3x8-12</li>
 </ul>
 <h2 id="cardio-">Cardio :(</h2>
 <p>6 Days a week<br>
